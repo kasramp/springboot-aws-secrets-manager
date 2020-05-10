@@ -3,7 +3,7 @@
 An example of Spring Boot application that connects to AWS Secrets Manager to get database credentials.
 
 Read this blog post for more details.
-- [Get database credentials from AWS Secrets Manager in Spring Boot](https://google.com)
+- [Getting database credentials from AWS Secrets Manager in Spring Boot](https://www.geekyhacker.com/2020/05/09/getting-database-credentials-from-aws-secrets-manager-in-spring-boot/)
 
 ## How to run
 
